@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋, I'm Marik
 
 <!--
 **gauravmarik/gauravmarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## A web developer | active learner | avid chess player
+
+As a lifelong learner 
+
+* ✨ My portfolio site site 👉 [marik.live](https://marik.live/)
