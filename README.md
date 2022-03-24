@@ -21,7 +21,8 @@ I am web developer with a passion for building responsive, accesible and clean d
 
 * ✨ My portfolio site site 👉 [marik.live](https://marik.live/)
 * 🧰 My favorite tools: React, vanilla Javascript & Firebase.
-* 🛠 Tools I've used: HTML, CSS, SCSS, Figma and a few more.  
+* 🛠 Tools I've used: HTML, CSS, SCSS, Figma and a few more. 
+* 🙃 Fun fact: when I am not working, I am usually playing chess, hanging out with my friends or day dreaming! 
 
 
 <!-- * 💼 Find my resume [](url) -->
