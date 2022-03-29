@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Marik
+# Hi there 👋, I'm Marik (He / Him)
 
 <!--
 **gauravmarik/gauravmarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
