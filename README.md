@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I am web developer with a passion for building responsive, accesible and clean design. With 5+ years expereince in law & 3+ years experience in client service across 2 continents, I make an impact with my work & bring ideas to life in a meaningful and creative way.   
 
-* ✨ My portfolio site site 👉 [marik.live](https://marik.live/)
+* ✨ My portfolio site 👉 [marik.live](https://marik.live/)
 * 🧰 My favorite tools: React, vanilla Javascript & Firebase.
 * 🛠 Tools I've used: HTML, CSS, SCSS, Figma and a few more. 
 * 🙇‍♂️ Currently learning: Three.js, Python & Django
