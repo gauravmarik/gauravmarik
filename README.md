@@ -23,7 +23,7 @@ I am a web developer with a passion for building responsive, accesible and clean
 * 🧰 My favorite tools: React, vanilla Javascript & Firebase.
 * 🛠 Tools I've used: HTML, CSS, SCSS, Figma and a few more. 
 * 🙇‍♂️ Currently learning: Next.js, Redux, Three.js, Typescript and Tailwind CSS 
-* 🙃 Fun fact: when I am not working, I am usually playing chess, hanging out with my friends or day dreaming! 
+* 🙃 Fun fact: when I am not working, I am usually playing chess, hanging out with my friends or day dreaming. 
 
 
 <!-- * 💼 Find my resume [](url) -->
