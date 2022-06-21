@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## A web developer | active learner | avid chess player
 
-I am a web developer with a passion for building responsive, accesible & clean design. With several years of expereince in banking, law and client service across 2 continents, I make an impact with my work & bring ideas to life in a meaningful and creative way.   
+I am a web developer with a passion for building responsive, accesible and clean design. With several years of expereince in banking, law and client service across 2 continents, I make an impact with my work & bring ideas to life in a meaningful and creative way.   
 
 * ✨ My portfolio site 👉 [marik.live](https://marik.live/)
 * 🧰 My favorite tools: React, vanilla Javascript and Firebase.
